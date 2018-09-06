@@ -1,3 +1,3 @@
 # CAM-MongoDB
 
-Create a terraform example which can execute a script.
+Create a terraform example which can executes a script.
